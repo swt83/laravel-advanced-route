@@ -1,11 +1,6 @@
 {
-    "name": "lesichkovm/laravel-advanced-route",
-    "description": "Advanced route class for Laravel",
-    "version": "1.0.0",
-    "type": "library",
-    "keywords": ["route", "advanced", "laravel", "php", "lesichkov"],    
-    "homepage": "http://github.com/lesichkovm/laravel-advanced-route",
-    "license": "commercial",
+    "name": "travis/laravel-advanced-route",
+    "description": "A Laravel PHP package for restoring implicit controllers to the framework.",
     "authors": [
         {
             "name": "Milan Lesichkov",
@@ -18,6 +13,6 @@
         "files": ["src/AdvancedRoute.php"]
     },
      "require": {
-        "Laravel/framework": "5.*"
+        "laravel/framework": "5.*"
     }
 }
